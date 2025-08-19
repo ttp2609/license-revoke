@@ -1,0 +1,9 @@
+{
+  "latest": "1.0.0",
+  "min_supported": "1..0",
+  "win": {
+    "url": "https://github.com/ttp2609/your-app/releases/latest/download/ChatBotSetup.exe",
+    "sha256": "b2c6b9...<64 ký tự sha256>..."
+  },
+  "changelog": "- Sửa lỗi A\n- Thêm tính năng B\n- Tối ưu C"
+}
